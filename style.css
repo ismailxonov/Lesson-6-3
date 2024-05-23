@@ -3,6 +3,52 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body{
+    background: linear-gradient(blue, red);
+}
+
+.box_label{
+    margin-left: 700px;
+    font-size: 20px;
+
+}
+
+.box_input{
+    margin-left: 673px;
+    border-radius: 12px;
+    width: 200px;
+    height: 40px;
+    
+}
+
+.box_btn{
+    width: 160px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: yellow;
+    border-color: yellow;
+    color: aqua;
+    margin-left: 695px;
+    margin-top: 20px;
+
+
+}
+
+
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    text-align: center;
+    border-radius: 8px;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 675px;
+    color: white;
+}
 
 
 
